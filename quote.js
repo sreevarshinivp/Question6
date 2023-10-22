@@ -5,11 +5,12 @@ const port = process.env.PORT || 3001;
 
 // Define a list of inspirational quotes (you can replace this with your own list).
 const inspirationalQuotes = [
-  'The only way to do great work is to love what you do. - Steve Jobs',
-  'Don’t watch the clock; do what it does. Keep going. - Sam Levenson',
-  'Believe you can and you’re halfway there. -Theodore Roosevelt',
-  'The future belongs to those who believe in the beauty of their dreams. -Eleanor Roosevelt',
-  'The best way to predict the future is to create it. - Peter Drucker',
+  'You did not come this far to come ONLY this far!-Move forward!',
+  'The mind alone is one's friend and enemy at the same time.',
+  'Believe you can and you’re halfway there.',
+  'You are never too old to set another goal or dream a new dream',
+  'Have patience- all things are difficult before they become easy.',
+  'As you believe, so you become.',
 ];
 
 // Endpoint to get a random inspirational quote.
